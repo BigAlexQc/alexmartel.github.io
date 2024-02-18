@@ -22,7 +22,7 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/bigalexqc.github.io/',
 
-  trailingSlash: false,
+  trailingSlash: true,
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
