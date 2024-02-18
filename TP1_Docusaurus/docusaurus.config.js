@@ -20,7 +20,7 @@ const config = {
   url: 'https://BigAlexQc.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/alexmartel.github.io/',
+  baseUrl: '/bigalexqc.github.io/',
 
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
@@ -43,7 +43,7 @@ const config = {
         docs: {
 		  routeBasePath: '/',
           sidebarPath: './sidebars.js',
-          editUrl: `https://github.com/BigAlexQc/alexmartel.github.io/tree/main/`,
+          editUrl: `https://github.com/BigAlexQc/bigalexqc.github.io/tree/main/`,
         },       
         theme: {
           customCss: './src/css/custom.css',
