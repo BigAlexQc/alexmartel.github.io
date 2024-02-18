@@ -1,0 +1,9 @@
+{
+  "label": "Office",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+	"description": "Cette section explique la procédure à suivre pour ajouter des animations dans Powerpoint.",
+	"slug": "/animations"
+  }
+}
