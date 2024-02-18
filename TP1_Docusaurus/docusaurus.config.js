@@ -14,7 +14,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'BigAlexQc', // Usually your GitHub org/username.
-  projectName: 'alexmartel.github.io', // Usually your repo name.
+  projectName: 'bigalexqc.github.io', // Usually your repo name.
 
   // Set the production url of your site here
   url: 'https://BigAlexQc.github.io',
