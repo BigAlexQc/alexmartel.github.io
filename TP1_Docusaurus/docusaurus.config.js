@@ -42,7 +42,8 @@ const config = {
       ({
         docs: {
 		  routeBasePath: '/',
-          sidebarPath: './sidebars.js',		 
+          sidebarPath: './sidebars.js',
+          editUrl: `https://github.com/BigAlexQc/alexmartel.github.io/tree/main/`,
         },       
         theme: {
           customCss: './src/css/custom.css',
